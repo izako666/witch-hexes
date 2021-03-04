@@ -1,0 +1,23 @@
+{
+
+"item.hexmod.bone_needle": "Bone Needle",
+"effect.hexmod.sleep_hex": "Sleep Hex",
+"effect.hexmod.starvation_hex": "Starvation Hex",
+"effect.hexmod.sickness_hex": "Sickness Hex",
+"effect.hexmod.animal_fear_hex": "Animal Fear Hex",
+"effect.hexmod.fake_fear_hex": "Fake Fear Hex",
+"effect.hexmod.lost_tung_hex": "Lost Tung Hex",
+"effect.hexmod.darkness_hex": "Darkness Hex",
+"effect.hexmod.slippery_hands_hex": "Slippery Hands Hex",
+"effect.hexmod.backwards_hex": "Backwards Hex",
+"enchantment.hexmod.sleep_ench": "Sleep Hex",
+"enchantment.hexmod.starvation_ench": "Starvation Hex",
+"enchantment.hexmod.sickness_ench": "Sickness Hex",
+"enchantment.hexmod.animal_fear_ench": "Animal Fear Hex",
+"enchantment.hexmod.fake_fear_ench": "Fake Fear Hex",
+"enchantment.hexmod.lost_tung_ench": "Lost Tung Hex",
+"enchantment.hexmod.darkness_ench": "Darkness Hex",
+"enchantment.hexmod.slippery_hands_ench": "Slippery Hands Hex",
+"enchantment.hexmod.backwards_ench": "Backwards Hex"
+
+}
